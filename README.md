@@ -18,13 +18,7 @@ Intrested in Everything , Waiting to collabrate with u all.
 <div>
 <a href="https://www.instagram.com/abarna0202" target="_blank">
 
-![Instagram](https://img.shields.io/badge/ragul_2003-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-
-</a>
-  
-<a href="https://t.me/RagulAdhithyaM" target="_blank">
-
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Instagram](https://img.shields.io/badge/abarna0202-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
 </a>
 
