@@ -13,7 +13,7 @@ Intrested in Everything , Waiting to collabrate with u all.
 - 👀 I’m interested in Programming, development and projects
 - 🌱 I’m currently learning Frontend Development
 - 💬 Known Languages : Python,C/C++,HTML,CSS,Java script.
-- 📫 How to reach me :-<br><br>
+- 📫 How to reach me : Via the forms on my website. <a href="https://abarna.tech" target="_blank"> Click Here </a>
 
 <div>
 <a href="https://www.instagram.com/abarna0202" target="_blank">
