@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi. This is Abarna a dedicated Mern Stack Developer with a strong foundation, currently in the prefinal year pursuing a B.E in Computer Science at Kumaraguru College of Technology. Adept at creating dynamic web applications using the MERN stack. Also, serving as the Joint Secretary at the Land of Lexicons Club, demonstrating leadership and organizational skills. Committed to continuous learning and passionate about honing technical expertise.
+Hi. This is Abarna a dedicated Full Stack Developer with a strong foundation, currently in the final year pursuing a B.E in Computer Science at Kumaraguru College of Technology. Adapt at creating dynamic web applications using the various tech stacks. Also, serving as the Joint Secretary at the Land of Lexicons Club, demonstrating leadership and organizational skills. Committed to continuous learning and passionate about honing technical expertise.
 
 
 ## 🌐 Socials:
